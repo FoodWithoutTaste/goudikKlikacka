@@ -1,0 +1,12 @@
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.csproj.AssemblyReference.cache
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.clientTest.resources
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.Properties.Resources.resources
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.csproj.GenerateResource.cache
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\bin\Debug\leaderBoardClient.exe.config
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\bin\Debug\leaderBoardClient.exe
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\bin\Debug\leaderBoardClient.pdb
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.csproj.CopyComplete
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.exe
+C:\Users\Martin\Downloads\Douda_Klikacka-master\Douda_Klikacka-master\leaderBoardClient\obj\Debug\leaderBoardClient.pdb
